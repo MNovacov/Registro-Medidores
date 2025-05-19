@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppLecturas</string>
+    <string name="list_title">Lecturas Registradas</string>
+    <string name="add_button">Agregar nueva lectura</string>
+    <string name="form_title">Registro Medidor</string>
+    <string name="valor_hint">Valor</string>
+    <string name="medidor_de">Medidor de:</string>
+    <string name="fecha_label">Fecha</string>
+    <string name="guardar_btn">Registrar medición</string>
+    <string name="tipo_agua">Agua</string>
+    <string name="tipo_luz">Luz</string>
+    <string name="tipo_gas">Gas</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
